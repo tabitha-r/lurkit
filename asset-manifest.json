@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lurkit/static/css/main.ec21a39f.css",
+    "main.js": "/lurkit/static/js/main.0be13de6.js",
+    "index.html": "/lurkit/index.html",
+    "main.ec21a39f.css.map": "/lurkit/static/css/main.ec21a39f.css.map",
+    "main.0be13de6.js.map": "/lurkit/static/js/main.0be13de6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec21a39f.css",
+    "static/js/main.0be13de6.js"
+  ]
+}
